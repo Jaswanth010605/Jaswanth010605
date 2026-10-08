@@ -1,76 +1,56 @@
-<h1 align="center">Hi, I'm Sai Jaswanth Akula👋</h1>
-<p align="center">
-  <strong>Software Developer | Python & Java | Machine Learning Enthusiast</strong>
-</p>
-<p align="center">
-  I enjoy building practical software, exploring machine learning, and turning ideas into working systems.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/sai-jaswanth-akula/)">LinkedIn</a> ·
-  <a href="mailto:jassuakula0106@gmail.com">Email</a>
-</p>
+# Hey, I'm Jaswanth! 👋
+
+### Software • AI • Finance
+
+*Curious about how technology works, how markets move, and how the two come together.*
+
+</div>
 
 ---
 
-### About me
+### 👨‍💻 About Me
 
-- 🎓 Computer science student at **PES University, Bengaluru**
-- 💻 Interested in **software engineering, backend development, machine learning, and system design**
-- 🧠 Enjoy working on end-to-end projects, from designing the architecture to implementing and testing the solution
-- 📚 Currently strengthening **data structures & algorithms, OOP, and system design**
-- 📈 Passed **CFA Level I (August 2026)**, bringing an interest in finance alongside technology
+I'm a tech enthusiast who enjoys solving problems, writing code, and picking up new technologies. I'm especially interested in **software engineering**, **artificial intelligence**, and building systems that are useful, efficient, and easy to understand.
 
-### Tech stack
+Outside of coding, I'm equally curious about **finance** — from understanding businesses and financial markets to exploring how data, programming, and quantitative thinking can inform better decisions.
 
-**Languages:** Python · Java · C · JavaScript · SQL  
-**Backend & Web:** Spring Boot · Flask · Node.js · Express · HTML · CSS  
-**Machine Learning & Data:** PyTorch · OpenCV · NumPy · Pandas · Matplotlib  
-**Databases:** MySQL · PostgreSQL · MongoDB  
-**Tools:** Git · GitHub · Docker · Jupyter Notebook · Google Colab
+I like learning by doing, experimenting with ideas, and improving a little with every build.
 
-### Featured projects
+### 🛠️ Tech Stack
 
-#### 🧠 Medical Image Gatekeeper — CNN & Out-of-Distribution Detection
-Built a lightweight CNN-based first-stage classifier to route medical images into brain MRI or liver CT categories, with an unknown-image rejection mechanism. Explored slice-level inference, volume-level voting, and testing on out-of-distribution imaging data.
+**Languages**
 
-`Python` `PyTorch` `CNN` `Medical Imaging`  
-<!-- TODO: Add your public repository link here: [View repository](https://github.com/YOUR-USERNAME/YOUR-REPO) -->
+[![Languages](https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark)](https://skillicons.dev)
 
-#### 🚗 PoolU — Ride-Sharing Application
-Developed a ride-sharing application featuring pool creation and joining, ride management, capacity validation, and user reviews. Applied object-oriented design principles and software design patterns.
+**Frameworks & Libraries**
 
-`Java` `Spring Boot` `Thymeleaf` `PostgreSQL`  
-<!-- TODO: Add your public repository link here. -->
+[![Frameworks](https://skillicons.dev/icons?i=flask,express,nodejs,spring&theme=dark)](https://skillicons.dev)
 
-#### 📄 PDF Question Answering — Local RAG Pipeline
-Built a PDF question-answering workflow using document extraction, semantic retrieval, and a locally running language model to answer questions using retrieved document context.
+**Databases**
 
-`Python` `FAISS` `Sentence Transformers` `Ollama`  
-<!-- TODO: Add your public repository link here. -->
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark)](https://skillicons.dev)
 
-#### 📊 Employee Attrition Analytics Dashboard
-Created an analytics dashboard to explore employee attrition trends and communicate insights through interactive data visualizations.
+**Tools & Platforms**
 
-`Python` `Flask` `Dash` `MySQL`  
-<!-- TODO: Add your public repository link here. -->
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,linux,aws&theme=dark)](https://skillicons.dev)
 
-### Achievements
+### 🌱 Currently Exploring
 
-- **CFA Level I — Passed (August 2026)** · CFA Institute
-- **AlgoHunt — 2nd Place, Advanced Track (November 2025)** · PES University
-- **Finance Volunteer — Maaya 2025** · Supported budget tracking and financial coordination for the university technical fest
+- **Backend engineering & system design** — understanding how reliable applications work at scale.
+- **AI & machine learning** — learning how intelligent systems are developed and applied.
+- **Go** — expanding my programming toolkit.
+- **Finance & quantitative thinking** — connecting technology, data, and the financial world.
 
-### Let's connect
+### 💡 What Interests Me
 
-I'm always interested in learning, collaborating on useful projects, and exploring software engineering opportunities.
+`Software Development` · `Artificial Intelligence` · `Backend Systems` · `Financial Markets` · `FinTech` · `Problem Solving`
 
-**[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)** · **[Email](mailto:YOUR-EMAIL@example.com)**
+---
 
-<!-- MAINTENANCE CHECKLIST:
-1. Replace LinkedIn and email placeholders.
-2. Add live GitHub links to featured projects after publishing their repositories.
-3. Review this profile every 1–2 months.
-4. Keep the top 3–4 projects relevant to the roles you're applying for.
-5. Update the current-learning line as your focus changes.
--->
+<div align="center">
+
+*Always learning, always building.* 🚀
+
+</div>
