@@ -40,7 +40,6 @@ I like learning by doing, experimenting with ideas, and improving a little with 
 
 - **Backend engineering & system design** — understanding how reliable applications work at scale.
 - **AI & machine learning** — learning how intelligent systems are developed and applied.
-- **Go** — expanding my programming toolkit.
 - **Finance & quantitative thinking** — connecting technology, data, and the financial world.
 
 ### 💡 What Interests Me
